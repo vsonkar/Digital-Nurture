@@ -35,7 +35,7 @@ public class BookCollection {
         boolean added = b.addBook("Digital Forensics");
         System.out.println(added + ": Digital Forensics is already added");
 
-        boolean removed = b.removeBook("Pradhyumn");
+        boolean removed = b.removeBook("Design and Analysis of Algorithms");
         if (removed) {
             System.out.println("\nDesign and Ananysis of Algorithms is removed from the registration.");
         } else {
