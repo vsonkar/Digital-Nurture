@@ -1,6 +1,6 @@
-ERROR:root:2024-08-27 23:16:58 - Transaction amount must be positive.
+ERROR:root:2024-08-27 23:16:58 - Invalid transaction: 'amount' must be positive.
 ERROR:root:2024-08-27 23:16:58 - Invalid transaction: 'amount' must be a number.
-ERROR:root:2024-08-27 23:17:07 - Transaction amount must be positive.
+ERROR:root:2024-08-27 23:17:07 - Invalid transaction: 'amount' must be positive.
 ERROR:root:2024-08-27 23:17:07 - Invalid transaction: 'amount' must be a number.
-ERROR:root:2024-08-27 23:17:16 - Transaction amount must be positive.
+ERROR:root:2024-08-27 23:17:16 - Invalid transaction: 'amount' must be positive.
 ERROR:root:2024-08-27 23:17:16 - Invalid transaction: 'amount' must be a number.
